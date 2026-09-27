@@ -1,0 +1,4 @@
+ollama
+pdfplumber
+pdf2image 
+pytesseract
